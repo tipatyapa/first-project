@@ -1,1 +1,2 @@
-class converter
+ class converter {
+main()}
